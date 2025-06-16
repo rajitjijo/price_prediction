@@ -1,1 +1,1 @@
-# price_prediction
+# Prediction of Stock Prices using RNN and LSTMS
